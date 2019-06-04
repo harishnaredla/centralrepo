@@ -1,0 +1,8 @@
+def list1():
+   list1(0)=100
+def main():
+   t=(1,2,3,4,5)
+   print(t)
+   fun(list1)
+   print(t)
+main()   
